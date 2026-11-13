@@ -1,4 +1,4 @@
-## PRD Visibility
+# PRD Visibility
 ==============
 
 Controls the visibility of the Personal Resource Display in WoW: Forever:
