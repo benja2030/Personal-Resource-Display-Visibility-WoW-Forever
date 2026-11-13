@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: PRD Visibility
+## Notes: Shows the Personal Resource Display in combat or while health or resources are regenerating.
+## Version: 3.0
+## SavedVariables: PRDVisibilityDB
+PRDVisibility.lua
