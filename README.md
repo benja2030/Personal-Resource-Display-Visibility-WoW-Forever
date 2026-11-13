@@ -1,5 +1,4 @@
 # PRD Visibility
-==============
 
 Controls the visibility of the Personal Resource Display in WoW: Forever:
   - In combat: fully visible, with bar text.
@@ -56,11 +55,9 @@ Important: never put an invented number like 00000 in that line. The game
 marks it as Incompatible and the addon will not load at all.
 
 
-========================================================================
 
 
-PRD Visibility (español)
-========================
+# PRD Visibility (español)
 
 Controla la visibilidad del Personal Resource Display en WoW: Forever:
   - En combate: totalmente visible, con el texto de las barras.
